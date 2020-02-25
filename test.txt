@@ -5,3 +5,4 @@ hello java
 add a new line
 whoami
 hello git stash
+how are you
