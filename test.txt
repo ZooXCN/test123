@@ -4,3 +4,4 @@ hello ignore
 hello java
 add a new line
 whoami
+hello git stash
